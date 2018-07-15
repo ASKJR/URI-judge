@@ -1,0 +1,7 @@
+'''
+Problem: O Enigma do Pronalândia
+URI Online Judge | 1984
+Solution developeded by: Alberto Kato
+'''
+num = input().strip()
+print(num[::-1])
