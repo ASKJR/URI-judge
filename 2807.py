@@ -1,7 +1,7 @@
 '''
 Problem: Iccanobif
 URI Online Judge | 2807
-Solution developeded by: Alberto Kato
+Solution developed by: Alberto Kato
 '''
 def fib(n):
     previus = 0

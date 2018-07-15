@@ -1,7 +1,7 @@
 '''
 Problem: Entrada e Saída CPF
 URI Online Judge | 2763
-Solution developeded by: Alberto Kato
+Solution developed by: Alberto Kato
 '''
 while True:
     try:
