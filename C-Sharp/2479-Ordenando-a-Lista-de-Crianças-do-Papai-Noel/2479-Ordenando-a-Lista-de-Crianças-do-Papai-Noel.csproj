@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>_2479_Ordenando_a_Lista_de_Crianças_do_Papai_Noel</RootNamespace>
+  </PropertyGroup>
+
+</Project>
