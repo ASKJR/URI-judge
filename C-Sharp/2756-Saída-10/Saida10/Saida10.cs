@@ -1,6 +1,11 @@
 ﻿using System;
 class URI
 {
+   /*  
+    *  Problem: Saída 10
+    *  beecrowd | 2756  
+    *  Solution developed by: Alberto Kato
+    */
     static void Main(string[] args)
     {
         //This program prints a diamond shape using letters A to E.
